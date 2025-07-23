@@ -5,13 +5,12 @@
 🏫 A student learning to major in artificial intelligence at BUPT,China, also a [Microsoft Learning Ambassador](https://mvp.microsoft.com/en-US/studentambassadors/profile/8f2e061e-b583-4155-85e6-c8319cbdcdcb).
 
 - 🌱 I’m currently learning:  
-  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 - 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/cloud_SaltFish)
-[![Website Badge](https://img.shields.io/badge/website-000000?style=flat&logo=About.me&logoColor=white)](https://touchingfish.day)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:me@cloud0310.cn)
 - 🔭 I’m currently working on
 
