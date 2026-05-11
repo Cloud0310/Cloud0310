@@ -12,6 +12,3 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/[cloud_SaltFish](https://t.me/fxck_durov))
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:me@touchingfish.day)
-
-
-[![Cloud's github stats](https://github-readme-stats.vercel.app/api?username=Cloud0310&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
