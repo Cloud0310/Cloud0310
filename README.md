@@ -4,10 +4,6 @@
 
 🏫 A freelanccer, new comer for open source.
 
-- 🌱 I’m currently learning:  
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=flat&logo=html5&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white)
 - 📫 How to reach me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/[cloud_SaltFish](https://t.me/fxck_durov))
